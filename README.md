@@ -9,4 +9,6 @@ Repositório referente aos estudos realizados na escola de tecnologia Alura. Aqu
 ## KFold e aleatorização
 ~> [k_fold_aleatorizacao.ipynb](https://github.com/brunodleite/alura_machine_learning_validacao_modelos/blob/main/k_fold_aleatorizacao.ipynb)
 
+## Estratificação
+~> [estratificacao.ipynb](https://github.com/brunodleite/alura_machine_learning_validacao_modelos/blob/main/estratificacao.ipynb)
 
