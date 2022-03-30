@@ -5,3 +5,8 @@ Repositório referente aos estudos realizados na escola de tecnologia Alura. Aqu
 # Aulas
 ## Validação cruzada e aleatoriedade inicial
 ~> [validacao_cruzada_aleatoriedade_inicial.ipynb](https://github.com/brunodleite/alura_machine_learning_validacao_modelos/blob/main/validacao_cruzada_aleatoriedade_inicial.ipynb)
+
+## KFold e aleatorização
+~> [k_fold_aleatorizacao.ipynb](https://github.com/brunodleite/alura_machine_learning_validacao_modelos/blob/main/k_fold_aleatorizacao.ipynb)
+
+
